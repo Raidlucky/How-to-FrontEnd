@@ -1,0 +1,17 @@
+HTML & CSS
+HTML https://www.w3schools.com/html/default.asp JS - Simple
+CSS https://www.w3schools.com/css/default.asp JS - Simple
+
+JS
+1. https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps JS Simple - Advanced
+2. https://www.w3schools.com/js/default.asp Js Simple; slightly outdated
+
+Front-End Tools
+https://coolors.co/generate for making a color palette
+https://getcssscan.com/css-box-shadow-examples easy box shadow examples
+https://fontawesome.com/ Free icons you can import for your website
+https://www.w3schools.com/html/html_filepaths.asp To learn about FILE PATHS !IMPORTANT!
+
+CONTACT ME! :)
+https://raidlucky.github.io/Projects/
+feel free to let me know if this tutorial helps

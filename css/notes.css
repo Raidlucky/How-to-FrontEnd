@@ -1,0 +1,43 @@
+/* This is a css comment */
+
+:root {
+    --blueberry: #31568d; /* this is to set colors with default names so you can call them later */
+    --dark-text: #14181f;
+}
+
+/* I recommend you copy the body and html styles I made below and put them in any page you make */
+html {
+overflow: auto; /* scrollbar is auto set */
+}
+
+body {
+font-family: arial; /* set the deafault font of the page */
+box-sizing: border-box;
+margin: 0px; /* defaults things to have 0 margin, might not apply to everything */
+background-color: var(--blueberry);
+}
+
+
+h1 {
+    color: var(--dark-text); /* Here we are setting all H1 elements in the html file to be this color by default*/
+}
+
+.h1 {
+    color: white; /* all elements with the h1 class will now be white, classes are for making specific things look unique*/
+}
+
+#h1 {
+    color: red; /* things with a # are ids and we can style them too! You should try to stick to using classes but using ids can be nessecary*/
+}
+
+a {
+    color: #fff;
+    text-align: center; /* this centers the text on the link */
+    text-decoration: none; /* removes default underline on links*/
+}
+
+.container {
+    width: 400px;
+    margin-inline: auto; /* this centers the container */
+    text-align: center; /* this will center all the text inside of the container */
+}

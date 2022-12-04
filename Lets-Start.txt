@@ -1,0 +1,25 @@
+Welcome to My Front-End lesson, I'm Lucky.
+If you run into trouble throughout this course contact me at https://raidlucky.github.io/Projects/
+I've got people I really want/need to teach front-end to, so I figured I should make a repo(Repository) to do it.
+
+Let's Start.
+
+1. Take a look at the recommended websites I've listed in recommended-websites.txt
+These can be used as more advanced tools after this tutorial; However, This tutorial is good practice overall no matter what
+skill level you are.
+
+
+
+2. When I was learning front-end I realised the best way to get good at html and css was to recreate things, the nice thing about
+html and css is it's all visual and really helps explain what does what.
+
+
+
+3. In the recreation folder you'll find examples of things to recreate; if you get stuck or things don't feel like they make sense
+feel free to contact me on discord (Lucky'#0001). To recreate something try to remake it just by looking at the image, if you get 
+stuck you can see the way i chose to do it with the html and css file
+
+
+
+4. The notes files (notes.html, notes.css, and notes.js) are somethign you should be able to come back to in case you forgot how to
+do something, feel free to keep them open as you code.
